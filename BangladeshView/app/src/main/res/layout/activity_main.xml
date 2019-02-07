@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#BFBFBF"
+    tools:context=".MainActivity">
+    <ImageView
+        android:layout_width="340dp"
+        android:layout_height="400dp"
+        android:layout_marginBottom="20dp"
+        android:src="@drawable/bd"
+
+        />
+    <Button
+        android:id="@+id/buttonId"
+        android:layout_width="340dp"
+        android:layout_height="60dp"
+        android:background="#3AB5E6"
+        android:text="বুদ্ধিজীবী হত্যাকাণ্ড"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:textColor="#000"/>
+
+
+
+</LinearLayout>
