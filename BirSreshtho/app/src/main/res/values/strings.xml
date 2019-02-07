@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">BirSreshtho</string>
+    <string name="bir_jahangir">Shaheed Mohiuddin Jahangir </string>
+    <string name="bir_hamidur">Shaheed Hamidur Rahman</string>
+    <string name="bir_kamal">Shaheed Mostofa Kamal</string>
+    <string name="bir_matiur">Shaheed Matiur Rahman</string>
+    <string name="bir_ruhul"> Shaheed Mohammad Ruhul Amin</string>
+    <string name="bir_rouf"> Shaheed Munshi Abdur Rouf</string>
+    <string name="bir_sheikh">Shaheed Nur Mohammad Sheikh</string>
+
+    <string name="details_bir_jahangir">
+
+        Birthday: March 6, 1945\n
+        Birth district: Barisal\n
+        Rank: Captain\n
+        ID Number: BSS-10439\n
+        Squad: Bangladesh Army.\n
+        Martyr Day: December 9, 1971\n
+    </string>
+    <string name="details_bir_hamidur">
+        Birthday: February 2, 1953\n
+        Birth district:  Jhenaidah\n
+        Rank: Sepoy\n
+        ID Number: 3943014\n
+        Squad: Bangladesh Army\n
+        Martyr Day: October 8, 1971\n
+    </string>
+    <string name="details_bir_kamal">
+        Birthday: December 16, 1947\n
+        Birth district: Barishal\n
+        Rank: Sepoy\n
+        ID Number: 3937798\n
+        Squad: Bangladesh Army\n
+        Martyr Day: April 18, 1971\n
+
+    </string>
+    <string name="details_bir_matiur">
+        Birthday: October 29, 1941\n
+        Birth district: Dhaka\n
+        Rank: Flight Lieutenant\n
+        ID Number: 4367 (Pakistan)\n
+        Squad: Bangladesh Air Force\n
+        Martyr Day: August 20, 1971\n
+
+    </string>
+    <string name="details_bir_ruhul">
+        Birthday: 1935\n
+        Birth district: Noakhali\n
+        Rank: Engine Room Artificer, Class-1\n
+        ID Number: 62066\n
+        Squad: Bangladesh Navy\n
+        Martyr Day: December 10, 1971\n
+    </string>
+    <string name="details_bir_rouf">
+        Birthday: May 1, 1943\n
+        Birth district: Faridpur\n
+        Rank: Lance Nayek\n
+        ID Number: Unavailable\n
+        Squad: Bangladesh Rifles\n
+        Martyr Day: April 18, 1971\n
+
+
+    </string>
+    <string name="details_bir_sheikh">
+    Birthday: February 26, 1936\n
+    Birth district: Jessore\n
+    Rank: Lance Nayek\n
+    ID Number: 9459\n
+    Squad: Bangladesh Rifles\n
+    Martyr Day: September 5, 1971 \n
+
+    </string>
+
+</resources>
